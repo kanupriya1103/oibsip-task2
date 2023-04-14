@@ -1,0 +1,29 @@
+#container {
+	width: 400px;
+	margin: 50px auto;
+	text-align: center;
+  }
+  
+  input[type="text"] {
+	width: 70%;
+	padding: 10px;
+	margin-bottom: 10px;
+	border: none;
+	border-bottom: 2px solid black;
+  }
+  
+  button {
+	padding: 10px;
+	border: none;
+	background-color: lightblue;
+	color: white;
+	cursor: pointer;
+  }
+  
+  li {
+	list-style: none;
+	padding: 10px;
+	border: 1px solid black;
+	margin-bottom: -1px;
+  }
+  
